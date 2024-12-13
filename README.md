@@ -20,4 +20,4 @@ A React-based application for managing TikTok livestreams with split-screen func
 
 ## Installation
 
-1. Clone the repository: 
+1. Clone the repository:
